@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dolmush</string>
+    <string name="start_button">Start the Trip</string>
+    <string name="location_button">Get Location</string>
+    <string name="Latitude">Latitude:</string>
+    <string name="Longitude">Longitude:</string>
+    <string name="Country_Name">Country Name:</string>
+    <string name="Locality">Locality:</string>
+    <string name="Address">Address:</string>
+</resources>
